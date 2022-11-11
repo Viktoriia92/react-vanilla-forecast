@@ -42,7 +42,7 @@ export default function App() {
         <small>
           <a
             id="openCode"
-            href="https://github.com/Viktoriia92/vanillaForecast"
+            href="https://github.com/Viktoriia92/react-vanilla-forecast"
             alt="Open-source code"
             target="blank"
           >
